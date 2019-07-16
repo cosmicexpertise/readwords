@@ -1,0 +1,70 @@
+{
+  "_args": [
+    [
+      "censorifyyyy",
+      "/home/anshul"
+    ]
+  ],
+  "_from": "censorifyyyy@latest",
+  "_hasShrinkwrap": false,
+  "_id": "censorifyyyy@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/censorifyyyy",
+  "_nodeVersion": "8.10.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/censorifyyyy_0.1.1_1563278590244_0.5425381305597725"
+  },
+  "_npmUser": {
+    "email": "anshulvijayvergiya678@gmail.com",
+    "name": "anshul.vijayvergiya"
+  },
+  "_npmVersion": "3.5.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "censorifyyyy",
+    "raw": "censorifyyyy",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_shasum": "f27c155393dd0baef6073c61c74beff53e9a454d",
+  "_shrinkwrap": null,
+  "_spec": "censorifyyyy",
+  "_where": "/home/anshul",
+  "author": {
+    "name": "Brendan Dayley"
+  },
+  "dependencies": {},
+  "description": "Censors words out of text",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 3,
+    "integrity": "sha512-YE8xGEC6TzMLK6wJnInR629bXKnjSRScPn9zXEFjxhl6MzoIT2ZyfMbndwsmmX2AiIRkdgWACUuCjUBdcCurxw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJdLbz+CRA9TVsSAnZWagAAUvMQAIuoRQaWeFgQs43iQMID\nxzTzutGV1K+vUt5d8J/yU8W/KLIlSNNMNuF1XP3UrPA47fjSW+fN8rZNf/AS\nUEAufukwpk+4lcyD9AD8bvaMmRbXIn/TqBVYST9/GyU34Yvh1d+ZR5eBz2K3\nDUfDx3M74Dt5CTuNLSwdWjQI06fF8pViS3r4ctQTRZFur/bC9jVUTY6q1oo2\nfFT9rAlUtXa8FhN5SVqt6YYnWl13oCu+fR0HohtJjny4kqP6FYea2NG8umyg\nv0oaEWLiRca9rPUilWTncgr2/0ueIpdGqMSpFIKhzXG9zxQTFrcENseJhS+I\nlOsK93dRyPubK/aq/PNruOBBOuIyLZzwOzPhtvnSLNK4tkxvnZ1wo14AFMYc\ncOyplr+j+WXKt5sbdGQOGm81Dyl+OowQ+2bVCkBemOpUj6Lmh2Wf6keV3IID\na8Ke3BWmDUr89ttW1/ZksjUEsdWhmigLKtr1SJgGZBI2kIE1hJNvPxWX+K9f\nL40qooa//ghyKehoS1mpLEgEYQf4A9VPxsaUc1KtoEzWaTNIi+VpyU1TLPb5\n4I/bOMN3qK0GniCnzsnXFUssug4DdezxsfbqKPjdErU054lqOGkX6BVSO/J0\nPoedb5o7FuPyVVVwITtmEdXutM51piH5f+K1DObxB9kjann+LuSAFO4Pgqu5\ntx9t\r\n=MNzq\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "f27c155393dd0baef6073c61c74beff53e9a454d",
+    "tarball": "https://registry.npmjs.org/censorifyyyy/-/censorifyyyy-0.1.1.tgz",
+    "unpackedSize": 1287
+  },
+  "license": "ISC",
+  "main": "censortext",
+  "maintainers": [
+    {
+      "name": "anshul.vijayvergiya",
+      "email": "anshulvijayvergiya678@gmail.com"
+    }
+  ],
+  "name": "censorifyyyy",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
